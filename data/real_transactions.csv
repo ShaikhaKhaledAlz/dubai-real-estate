@@ -1,0 +1,775 @@
+transaction_date,area,project,property_type,bedrooms,size_sqft,off_plan,price_aed,nearest_metro
+2026-09-22,Horizon,THE HIGHGROVE,Apartment,1.0,797.0,True,2168828.0,Creek Metro Station
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,984.0,True,1419000.0,UAE Exchange Metro Station
+2026-09-22,Damac Hills,DAMAC DISTRICT,Apartment,1.0,777.0,True,1397000.0,
+2026-09-22,Dubai South,ENRE RESIDENCE BY IMTIAZ,Apartment,2.0,1175.0,True,1646831.0,
+2026-09-22,Madinat Al Mataar,azizi venice 12,Apartment,0.0,363.0,True,650000.0,
+2026-09-22,Al Yufrah 1,The Woods,Apartment,1.0,540.0,True,1012144.0,
+2026-09-22,Damac Hills,DAMAC DISTRICT,Apartment,1.0,687.0,True,1293000.0,
+2026-09-22,Al Yufrah 1,The Woods,Apartment,1.0,541.0,True,1000240.0,
+2026-09-22,Dmcc-Ez2,Sobha Central Phase II,Apartment,1.0,743.0,True,2213604.0,Harbour Tower
+2026-09-22,Down Town Jabal Ali,Azizi Rose,Apartment,0.0,345.0,True,586040.0,UAE Exchange Metro Station
+2026-09-22,Jabal Ali Industrial Second,Azizi Wares,Apartment,0.0,338.0,True,616420.0,
+2026-09-22,Jabal Ali First,Sobha Central ,Apartment,1.0,565.0,True,1779057.0,
+2026-09-22,Jabal Ali First,Sobha Central ,Apartment,1.0,565.0,True,1796000.0,
+2026-09-22,Dmcc-Ez2,Sobha Central Phase I,Apartment,2.0,1552.0,True,4564291.0,Harbour Tower
+2026-09-22,Dmcc-Ez2,Sobha Central Phase I,Apartment,2.0,957.0,True,2726282.0,Harbour Tower
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,1.0,795.0,True,1444000.0,
+2026-09-22,Damac Hills,DAMAC DISTRICT,Apartment,1.0,636.0,True,1081325.0,
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,1030.0,True,1469000.01,UAE Exchange Metro Station
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,0.0,368.0,True,623964.71,
+2026-09-22,International City Ph 2 & 3,Greenfield by Samana Developers,Apartment,1.0,579.0,True,869682.36,Rashidiya Metro Station
+2026-09-22,Damac Hills,DAMAC DISTRICT,Apartment,1.0,682.0,True,1223000.0,
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,625.0,True,1047282.36,UAE Exchange Metro Station
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,1.0,721.0,True,931552.95,
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,707.0,True,1209000.01,UAE Exchange Metro Station
+2026-09-22,Bukadra,Skyvue,Apartment,1.0,752.0,True,2228660.0,
+2026-09-22,Bukadra,360 Riverside Crescent,Apartment,1.0,710.0,True,1969917.0,
+2026-09-22,Jumeirah Village Triangle,ELARIS Sky,Apartment,2.0,1196.0,True,1569469.0,Damac Properties
+2026-09-22,Dmcc-Ez2,Sobha Central Phase I,Apartment,2.0,1344.0,True,3804680.0,Harbour Tower
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,0.0,459.0,True,808000.0,
+2026-09-22,Madinat Al Mataar,azizi venice 13 ,Apartment,0.0,381.0,True,655000.0,
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,0.0,451.0,True,794000.0,
+2026-09-22,Jumeirah Heights,ELTIERA HEIGHTS,Apartment,2.0,1251.0,True,3190828.0,
+2026-09-22,International City Ph 1,YIGO26,Apartment,0.0,471.0,True,693012.48,Rashidiya Metro Station
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,805.0,True,1298880.0,
+2026-09-22,Dubai Maritime City, CHELSEA RESIDENCES BY DAMAC,Apartment,1.0,1002.0,True,3212000.0,Al Ghubaiba Metro Station
+2026-09-22,Jabal Ali First,Sobha Central ,Apartment,1.0,610.0,True,1968605.0,
+2026-09-22,Warsan First,Listone Residence,Apartment,0.0,416.0,True,592888.0,Rashidiya Metro Station
+2026-09-22,Dubai Sports City,RED RESIDENCE,Apartment,1.0,761.0,False,590000.0,Dubai Internet City
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,1522.0,True,1539000.0,UAE Exchange Metro Station
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,0.0,372.0,True,587505.88,
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,0.0,446.0,True,679038.0,
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,0.0,368.0,True,587505.88,
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,712.0,True,1199000.0,UAE Exchange Metro Station
+2026-09-22,Al Yufrah 1,The Woods,Apartment,1.0,546.0,True,1054706.0,
+2026-09-22,International City Ph 1,YIGO26,Apartment,1.0,702.0,True,861875.0,Rashidiya Metro Station
+2026-09-22,Madinat Al Mataar,Azizi Venice 6,Apartment,0.0,353.0,True,699000.0,
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,1.0,633.0,True,974000.01,
+2026-09-22,International City Ph 2 & 3,Greenfield by Samana Developers,Apartment,1.0,625.0,True,949647.06,Rashidiya Metro Station
+2026-09-22,Jumeirah Village Circle,THE BOROUGH,Apartment,0.0,410.0,True,529990.0,Dubai Internet City
+2026-09-22,Jumeirah Village Circle,Azurline Residences by MAAS Developers ,Apartment,1.0,611.0,True,970000.0,Dubai Internet City
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 12,Apartment,2.0,1106.0,True,2434000.0,
+2026-09-22,Jumeirah Village Circle,THE BOROUGH,Apartment,0.0,405.0,True,529990.0,Dubai Internet City
+2026-09-22,International City Ph 2 & 3,ZYRA HILLS,Apartment,0.0,401.0,True,581550.0,
+2026-09-22,Business Bay,ELITE BUSINESS BAY RESIDENCE,Apartment,2.0,1309.0,False,1539000.0,Business Bay Metro Station
+2026-09-22,Business Bay,ELITE BUSINESS BAY RESIDENCE,Apartment,4.0,2168.0,False,2647500.0,Business Bay Metro Station
+2026-09-22,Business Bay,ELITE BUSINESS BAY RESIDENCE,Apartment,4.0,2189.0,False,2667000.0,Business Bay Metro Station
+2026-09-22,Business Bay,ELITE BUSINESS BAY RESIDENCE,Apartment,4.0,2168.0,False,2661200.0,Business Bay Metro Station
+2026-09-22,Dubai Land Residence Complex,PHOENIX TOWER,Apartment,0.0,546.0,False,415000.0,
+2026-09-22,Dubai Land Residence Complex,PHOENIX TOWER,Apartment,0.0,546.0,False,400000.0,
+2026-09-22,Jumeirah Village Circle,Westwood Grande by Imtiaz,Apartment,1.0,1100.0,False,1250000.0,Nakheel Metro Station
+2026-09-22,Burj Khalifa,DD BOULEVARD CENTRAL,Apartment,2.0,1411.0,False,2700000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-22,Jumeirah Village Circle,Binghatti Apex,Apartment,1.0,841.0,False,1200000.0,Dubai Internet City
+2026-09-22,Dubai Production City,LAKESIDE,Apartment,0.0,365.0,False,390000.0,Damac Properties
+2026-09-22,Remraam,REMRAAM,Apartment,2.0,1006.0,False,900000.0,
+2026-09-22,Business Bay,Peninsula Four,Apartment,0.0,492.0,False,1350000.0,Business Bay Metro Station
+2026-09-22,International City Ph 1,,Apartment,0.0,484.0,False,360000.0,Rashidiya Metro Station
+2026-09-22,Palm Jumeirah,FAIRMONT PALM RESIDENCE,Apartment,2.0,1759.0,False,6200000.0,Palm Jumeirah
+2026-09-22,Warsan First,Listone Residence,Apartment,1.0,714.0,True,865230.0,Rashidiya Metro Station
+2026-09-22,Town Square,Symphony,Apartment,2.0,903.0,True,1330000.0,
+2026-09-22,Jabal Ali Industrial Second,Azizi Wares,Apartment,1.0,537.0,True,826000.0,
+2026-09-22,Jumeirah Village Circle,Azurline Residences by MAAS Developers ,Apartment,1.0,625.0,True,878080.0,Dubai Internet City
+2026-09-22,Dubai Industrial City,Coventry Residence 3,Apartment,0.0,392.0,True,521888.0,
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,701.0,True,1209000.0,
+2026-09-22,Jabal Ali First,Sobha Central ,Apartment,3.0,1862.0,True,5770991.0,
+2026-09-22,Horizon,CLAYDON HOUSE BY ELLINGTON ,Apartment,1.0,788.0,True,1751828.0,Creek Metro Station
+2026-09-22,Dubai South,STORIES BY MIRFA,Apartment,2.0,1037.0,True,1139990.0,
+2026-09-22,Dubai South,ENRE RESIDENCE BY IMTIAZ,Apartment,1.0,747.0,True,1251726.07,
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,0.0,357.0,True,599000.01,
+2026-09-22,Madinat Al Mataar,WINDSOR HOUSE II,Apartment,2.0,1144.0,True,1775828.0,
+2026-09-22,Majan,Samana Barari Heights,Apartment,0.0,383.0,True,797111.11,
+2026-09-22,Madinat Al Mataar,WINDSOR HOUSE II,Apartment,3.0,1502.0,True,2241828.0,
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,0.0,466.0,True,855000.0,
+2026-09-22,Dubai Land Residence Complex,Samana Boulevard Heights,Apartment,1.0,766.0,True,1209531.11,
+2026-09-22,Jumeirah Village Circle,PEARL HOUSE IV BY IMTIAZ,Apartment,1.0,836.0,True,1310880.25,Dubai Internet City
+2026-09-22,Madinat Al Mataar,AZIZI VENICE 7,Apartment,1.0,623.0,True,890000.0,
+2026-09-22,Jumeirah Lakes Towers,Verde by Sobha,Apartment,1.0,1036.0,True,2383375.0,Marina Mall Metro Station
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,367.0,True,657660.0,
+2026-09-22,Horizon,CLAYDON HOUSE BY ELLINGTON ,Apartment,1.0,810.0,True,1673828.0,Creek Metro Station
+2026-09-22,Dubai Land Residence Complex,Le Blanc Residence by Imtiaz,Apartment,3.0,1614.0,True,2175627.96,
+2026-09-22,Horizon,THE HIGHGROVE,Apartment,1.0,812.0,True,2186828.0,Creek Metro Station
+2026-09-22,Horizon,CLAYDON HOUSE BY ELLINGTON ,Apartment,1.0,829.0,True,1601828.0,Creek Metro Station
+2026-09-22,Dubai Industrial City,Samana South Haven,Apartment,0.0,369.0,True,587505.88,
+2026-09-22,City Of Arabia,Azizi Milan 30,Apartment,0.0,344.0,True,586000.0,
+2026-09-22,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,707.0,True,1169000.0,UAE Exchange Metro Station
+2026-09-22,City Of Arabia,Azizi Milan 30,Apartment,0.0,345.0,True,586000.0,
+2026-09-22,Jabal Ali First,Boulevard Park 1,Apartment,2.0,1480.0,True,2354000.0,
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,1.0,719.0,True,1237000.0,
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,411.0,True,769000.0,
+2026-09-22,Al Yufrah 1,The Valley - Rivana,Villa,5.0,5370.0,True,5000000.0,
+2026-09-22,Al Merkadh,Sobha Creek Vistas Heights,Apartment,1.0,612.0,True,1269682.0,
+2026-09-22,Al Merkadh,Sobha Creek Vistas Heights,Apartment,1.0,722.0,True,1498955.0,
+2026-09-22,Al Merkadh,Sobha Creek Vistas Heights,Apartment,1.0,612.0,True,1269453.0,
+2026-09-22,Al Merkadh,Sobha Creek Vistas Heights,Apartment,1.0,612.0,True,1269910.0,
+2026-09-22,Madinat Al Mataar,AZIZI VENICE 7,Apartment,0.0,351.0,True,692998.0,
+2026-09-22,City Of Arabia,Azizi Milan 20,Apartment,1.0,661.0,True,978000.0,
+2026-09-22,Dubai Science Park,Binghatti Hillviews,Apartment,0.0,410.0,True,750000.0,First Abu Dhabi Bank Metro Station
+2026-09-22,Town Square,Symphony,Apartment,2.0,969.0,True,1400000.0,
+2026-09-22,City Of Arabia,Azizi Milan 30,Apartment,0.0,344.0,True,586000.0,
+2026-09-22,Um Suqaim Third,Lamaa,Apartment,1.0,750.0,False,1975000.0,
+2026-09-22,Meydan Avenue,Azizi Gardens,Apartment,2.0,588.0,False,1318000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-22,Arjan,KYOTO BY ORO24,Apartment,0.0,377.0,True,582350.0,Sharaf Dg Metro Station
+2026-09-22,City Of Arabia,Laguna Residence,Apartment,0.0,455.0,True,791350.0,
+2026-09-22,Al Satwa,KORO ONE,Apartment,0.0,431.0,False,950000.0,Trade Centre Metro Station
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,754.0,True,1184640.0,
+2026-09-22,Dubai Industrial City,Coventry Centro,Apartment,0.0,394.0,True,375000.0,
+2026-09-22,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,412.0,True,763390.0,
+2026-09-22,Madinat Al Mataar,AZIZI VENICE 11,Apartment,0.0,380.0,True,620000.0,
+2026-09-22,Madinat Al Mataar,AZIZI VENICE 11,Apartment,1.0,664.0,True,1210300.0,
+2026-09-22,City Of Arabia,Azizi Milan 30,Apartment,0.0,348.0,True,587000.0,
+2026-09-22,Meydan One,Azizi Riviera 68 ,Apartment,1.0,819.0,True,1608230.0,Creek Metro Station
+2026-09-22,Madinat Al Mataar,AZIZI VENICE 7,Apartment,0.0,339.0,True,530000.0,
+2026-09-22,Down Town Jabal Ali,Azizi Rose,Apartment,0.0,352.0,True,647000.0,UAE Exchange Metro Station
+2026-09-22,Madinat Al Mataar,Azizi Venice 16,Apartment,0.0,387.0,True,748600.0,
+2026-09-22,International City Ph 2 & 3,Stellar Axis by Ajmal Estate Developers,Apartment,0.0,483.0,True,540628.0,
+2026-09-22,Dubai Sports City,AURELIA RESIDENCE,Apartment,2.0,1266.0,True,1484577.0,Nakheel Metro Station
+2026-09-22,Jabal Ali First,Boulevard Park 2,Apartment,3.0,1962.0,True,3354000.0,
+2026-09-22,City Of Arabia,Azizi Milan 20,Apartment,0.0,344.0,True,571000.0,
+2026-09-22,Palm Deira,ELLINGTON SANDS II,Apartment,2.0,1174.0,True,3189828.0,
+2026-09-22,Madinat Al Mataar,azizi venice 13 ,Apartment,0.0,381.0,True,650000.0,
+2026-09-22,Palm Deira,THE MERIVA COLLECTION,Apartment,3.0,2200.0,True,7819828.0,
+2026-09-23,International City Ph 2 & 3,SADAAT TOWER,Apartment,0.0,467.0,True,540000.0,Rashidiya Metro Station
+2026-09-23,Dmcc-Ez2,Sobha Central Phase I,Apartment,1.0,632.0,True,1841201.0,Harbour Tower
+2026-09-23,Jabal Ali First,Sobha Central ,Apartment,1.0,610.0,True,1953344.0,
+2026-09-23,Jabal Ali First,Sobha Central ,Apartment,1.0,610.0,True,1968605.0,
+2026-09-23,Wadi Al Safa 3,Art House Private Residences By Viva,Apartment,1.0,669.0,True,1253888.0,
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,747.0,True,1100000.0,
+2026-09-23,Dubai Production City,EIRA,Apartment,1.0,834.0,True,1151000.0,Damac Properties
+2026-09-23,Wadi Al Safa 3,Art House Private Residences By Viva,Apartment,2.0,1386.0,True,2010000.0,
+2026-09-23,Dubai Production City,EIRA,Apartment,1.0,696.0,True,985000.0,Damac Properties
+2026-09-23,Dubai Production City,EIRA,Apartment,1.0,704.0,True,1022000.0,Damac Properties
+2026-09-23,Jabal Ali First,Sobha Central ,Apartment,1.0,645.0,True,2093642.0,
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,828.0,True,1100000.0,
+2026-09-23,Dmcc-Ez2,Sobha Central Phase II,Apartment,1.0,744.0,True,2182378.0,Harbour Tower
+2026-09-23,Dubai Production City,Reef 996,Apartment,1.0,698.0,True,1165858.09,Damac Properties
+2026-09-23,Dmcc-Ez2,Sobha Central Phase I,Apartment,2.0,956.0,True,2697274.0,Harbour Tower
+2026-09-23,Dubai South,THE EIGHTY THREE,Apartment,0.0,371.0,True,588000.0,
+2026-09-23,Dubai Production City,Reef 996,Apartment,1.0,698.0,True,1165858.09,Damac Properties
+2026-09-23,Dmcc-Ez2,Sobha Central Phase I,Apartment,2.0,957.0,True,2716716.0,Harbour Tower
+2026-09-23,Dmcc-Ez2,Sobha Central Phase II,Apartment,1.0,645.0,True,1818195.0,Harbour Tower
+2026-09-23,Majan,Binghatti Skyflame 2,Apartment,1.0,717.0,True,1050000.0,
+2026-09-23,Ras Al Khor Industrial First,SOBHA ONE,Apartment,1.0,538.0,True,1223654.0,
+2026-09-23,Dubai Land Residence Complex,AUM 99 Residences,Apartment,1.0,713.0,True,863101.0,
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,1.0,830.0,True,1235040.0,Dubai Internet City
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,2.0,1068.0,True,744325.0,
+2026-09-23,Business Park,Maybach Ultimate Luxury ,Apartment,1.0,616.0,True,2380000.0,Creek Metro Station
+2026-09-23,Falcon City Of Wonders,Sakura Gardens by HRE ,Apartment,1.0,823.0,True,1180000.0,
+2026-09-23,Sama Al Jadaf,Binghatti Wraith,Apartment,1.0,663.0,True,1250000.0,Al Jadaf Metro Station
+2026-09-23,Dubai Creek Harbour,HARBOUR VIEWS,Apartment,1.0,709.0,False,1500000.0,
+2026-09-23,Majan,Binghatti Skyflame 2,Apartment,1.0,717.0,True,1050000.0,
+2026-09-23,Palm Jumeirah,SERENIA LIVING,Apartment,2.0,1749.0,False,7375000.0,Mina Seyahi
+2026-09-23,Al Yufrah 1,The Woods,Apartment,1.0,540.0,True,1012556.0,
+2026-09-23,Dubai Creek Harbour,Creek Beach - Savanna-Cedar-Mangrove,Apartment,2.0,1029.0,False,2150000.0,Creek Metro Station
+2026-09-23,Wadi Al Safa 3,Mira Villas designed by Bentley Home,Villa,5.0,6022.0,True,21945000.0,
+2026-09-23,Majan,Binghatti Skyflame 1,Apartment,1.0,723.0,True,1050000.0,
+2026-09-23,Silicon Oasis,Timez By Danube,Apartment,3.0,1417.0,True,2300000.0,
+2026-09-23,Majan,,Apartment,1.0,919.0,False,652350.0,
+2026-09-23,Town Square,TOWN SQUARE JENNA AND WARDA,Apartment,3.0,1292.0,False,1800000.0,
+2026-09-23,Saih Shuaib 1,LUNAYA,Villa,4.0,2934.0,True,7323750.0,
+2026-09-23,Dubai Land Residence Complex,AUM 99 Residences,Apartment,1.0,634.0,True,831501.0,
+2026-09-23,Arjan,Binghatti Hillcrest,Apartment,0.0,366.0,True,826999.0,Sharaf Dg Metro Station
+2026-09-23,International City Ph 2 & 3,SADAAT TOWER,Apartment,0.0,437.0,True,520000.0,Rashidiya Metro Station
+2026-09-23,Al Yufrah 1,The Woods,Apartment,1.0,540.0,True,998242.0,
+2026-09-23,International City Ph 2 & 3,Chapter 01 By Newbury Developments,Apartment,1.0,704.0,True,845000.0,
+2026-09-23,Jumeirah Village Circle,Tetris Tower,Apartment,2.0,1247.0,True,1706221.0,Dubai Internet City
+2026-09-23,Down Town Jabal Ali,ELEVE BY DEYAAR,Apartment,0.0,409.0,True,659269.0,UAE Exchange Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,732.0,True,1116950.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,792.0,True,1259520.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,0.0,404.0,True,754000.0,
+2026-09-23,Jabal Ali Industrial Second,Azizi Wares,Apartment,0.0,334.0,True,595650.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,404.0,True,748000.0,
+2026-09-23,Jumeirah Village Circle,Beverly Crown,Apartment,1.0,791.0,True,1082900.0,Dubai Internet City
+2026-09-23,Bukadra,SKYSCAPE,Apartment,3.0,2790.0,True,7351097.0,
+2026-09-23,Dubai Land Residence Complex,Saray prime residence,Apartment,0.0,411.0,True,541172.91,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,395.0,True,727500.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,1.0,812.0,True,1274880.0,
+2026-09-23,Business Park,Vision Iconic,Apartment,3.0,2566.0,True,6729300.0,Creek Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,742.0,True,1208640.0,
+2026-09-23,Jumeirah Village Circle,105 Residences by Kamdar,Apartment,1.0,777.0,True,1144750.0,Nakheel Metro Station
+2026-09-23,Dubai Investment Park Second,DAMAC RIVERSIDE VIEWS - CAPRI 2,Apartment,1.0,887.0,True,1433280.0,
+2026-09-23,Bukadra,330 Riverside Crescent,Apartment,1.0,499.0,True,1314628.0,
+2026-09-23,Dubai Production City,Reef 996,Apartment,0.0,412.0,True,734952.6,Damac Properties
+2026-09-23,Al Merkadh,Sobha Creek Vistas Heights,Apartment,1.0,856.0,True,1631295.0,
+2026-09-23,Dubai Land Residence Complex,Beverly Park ,Apartment,0.0,427.0,True,645000.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,754.0,True,1205760.0,
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,706.0,True,1050000.0,
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,0.0,451.0,True,745232.19,
+2026-09-23,Dubai Studio City,Samana Mykonos,Apartment,2.0,1748.0,True,2200000.01,
+2026-09-23,Business Park,Project Maybach,Apartment,2.0,1226.0,True,3100000.0,Creek Metro Station
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,731.0,True,1100000.0,
+2026-09-23,Business Bay,Binghatti Aquarise,Apartment,1.0,835.0,True,2000000.0,Business Bay Metro Station
+2026-09-23,Business Bay,Binghatti Aquarise,Apartment,1.0,835.0,True,2000000.0,Business Bay Metro Station
+2026-09-23,Zaabeel Second,Akala Hotels and Residences,Apartment,2.0,1725.0,True,6348650.0,Financial Centre
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,1.0,804.0,True,1204070.4,Dubai Internet City
+2026-09-23,Business Park,Vision Iconic,Apartment,2.0,2082.0,True,4493700.0,Creek Metro Station
+2026-09-23,Madinat Al Mataar,azizi venice 12,Apartment,1.0,723.0,True,1217580.0,
+2026-09-23,Bukadra,Skyvue,Apartment,2.0,997.0,True,2970139.0,
+2026-09-23,Jumeirah Village Triangle,Binghatti Luxuria,Apartment,1.0,651.0,True,1020000.0,Damac Properties
+2026-09-23,Jumeirah Village Triangle,Santorini Residences by Loutraki,Apartment,1.0,655.0,True,1123151.0,Jumeirah Lakes Towers
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,0.0,480.0,True,829350.0,
+2026-09-23,Business Park,Maybach Six,Apartment,2.0,981.0,True,3100000.0,Creek Metro Station
+2026-09-23,Sama Al Jadaf,Binghatti Wraith,Apartment,2.0,1115.0,True,2134999.0,Al Jadaf Metro Station
+2026-09-23,Palm Deira,THE TIDES BY AMIS,Apartment,4.0,3560.0,True,9570733.0,
+2026-09-23,Jumeirah Village Circle,Iridian Park 2,Apartment,1.0,754.0,True,695267.0,Dubai Internet City
+2026-09-23,Majan,Binghatti Skyflame 1,Apartment,1.0,723.0,True,1050000.0,
+2026-09-23,Majan,Samana Barari Heights,Apartment,0.0,422.0,True,769000.01,
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,0.0,432.0,True,696350.0,
+2026-09-23,Majan,Samana Barari Views 2,Apartment,1.0,741.0,True,750000.0,
+2026-09-23,Business Park,Vision Iconic,Apartment,2.0,1037.0,True,4067000.0,Creek Metro Station
+2026-09-23,Jabal Ali First,Trussardi Residences 2,Apartment,2.0,1674.0,True,1541050.0,
+2026-09-23,Down Town Jabal Ali,PEACE AVENUE BY PEACE HOMES,Apartment,0.0,474.0,True,499999.0,UAE Exchange Metro Station
+2026-09-23,Arjan,SUNRISE LEGEND,Apartment,1.0,768.0,False,1000000.0,Sharaf Dg Metro Station
+2026-09-23,The Field,THE FIELDS AT D11 - MBRMC,Villa,4.0,2493.0,False,3700000.0,
+2026-09-23,Arjan,BURJ VIEW RESIDENCE,Apartment,0.0,517.0,False,600000.0,Sharaf Dg Metro Station
+2026-09-23,Dubai Studio City,GLITZ RESIDENCE 2,Apartment,3.0,1647.0,False,1650000.0,Sharaf Dg Metro Station
+2026-09-23,Dubai Creek Harbour,The Grand ,Apartment,3.0,1829.0,False,4950000.0,Creek Metro Station
+2026-09-23,Al Yelayiss 2,MAHA TOWNHOUSES ,Villa,3.0,1873.0,False,3150000.0,
+2026-09-23,Majan,,Apartment,1.0,839.0,False,1259055.0,
+2026-09-23,Jumeirah Village Circle,Binghatti Apex,Apartment,1.0,911.0,False,1250000.0,Dubai Internet City
+2026-09-23,Majan,THE HAVEN,Apartment,1.0,796.0,False,1050000.0,
+2026-09-23,Arjan,SKYZ By Danube,Apartment,0.0,364.0,False,650000.0,Sharaf Dg Metro Station
+2026-09-23,Business Bay,REVA RESIDENCES,Apartment,1.0,471.0,False,900000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Jumeirah Village Circle,Binghatti Orchid,Apartment,1.0,839.0,False,1010000.0,Dubai Internet City
+2026-09-23,Dubai Creek Harbour,CREEKSIDE 18,Apartment,2.0,1240.0,False,2600000.0,Creek Metro Station
+2026-09-23,Wadi Al Safa 5,La Rosa 4,Villa,3.0,1733.0,False,3200000.0,
+2026-09-23,Dubai Creek Harbour,The Grand ,Apartment,2.0,1226.0,False,4000000.0,Creek Metro Station
+2026-09-23,Business Bay,PRIVE BY DAMAC,Apartment,0.0,453.0,False,910000.0,Business Bay Metro Station
+2026-09-23,Arjan,Avelon Boulevard,Apartment,1.0,855.0,False,1100000.0,Sharaf Dg Metro Station
+2026-09-23,Emirate Living,Emirates Living - Springs 2,Villa,2.0,2610.0,False,3300000.0,Damac Properties
+2026-09-23,International City Ph 1,INTERNATIONAL CITY EMARATI,Apartment,0.0,491.0,False,335000.0,Rashidiya Metro Station
+2026-09-23,Madinat Hind 4,DAMAC HILLS (2) - NAVITAS (A & B) ,Apartment,1.0,421.0,False,610000.0,
+2026-09-23,Serena,SERENA BELLA CASA,Villa,3.0,3028.0,False,3300000.0,
+2026-09-23,Business Bay,Peninsula Three,Apartment,0.0,420.0,False,1200000.0,Business Bay Metro Station
+2026-09-23,Emaar South,Parkside 3,Villa,3.0,1553.0,False,2075000.0,
+2026-09-23,Discovery Gardens,,Apartment,2.0,1372.0,False,1125000.0,Harbour Tower
+2026-09-23,Damac Hills,DAMAC HILLS - ORCHID,Apartment,0.0,433.0,False,580000.0,
+2026-09-23,Motor City,,Apartment,1.0,930.0,False,870000.0,Sharaf Dg Metro Station
+2026-09-23,The Greens,TANARO,Apartment,1.0,736.0,False,1430000.0,Nakheel Metro Station
+2026-09-23,Silicon Oasis,PLATINUM RESIDENCE 1,Apartment,1.0,945.0,False,850000.0,
+2026-09-23,Silicon Oasis,AXIS  RESIDENCES 1,Apartment,1.0,898.0,False,600000.0,
+2026-09-23,Silicon Oasis,SILICON HEIGHTS,Apartment,0.0,425.0,False,435000.0,
+2026-09-23,Silicon Oasis,ARABIAN GATE,Apartment,2.0,1322.0,False,1370000.0,
+2026-09-23,Silicon Oasis,TOPAZ RESIDENCES 2,Apartment,1.0,911.0,False,1040000.0,
+2026-09-23,Sobha Heartland,Sobha Hartland - Crest Grande,Apartment,4.0,2353.0,False,5059402.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Al Satwa,KORO ONE,Apartment,0.0,437.0,False,1122755.0,Trade Centre Metro Station
+2026-09-23,Dubai Sports City,Golf Vista Heights,Apartment,0.0,429.0,False,500000.0,Nakheel Metro Station
+2026-09-23,Business Bay,Regalia,Apartment,3.0,1824.0,False,3350000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Business Bay,URBAN OASIS,Apartment,0.0,424.0,False,1035000.0,Business Bay Metro Station
+2026-09-23,Dubai Sports City,OASIS TOWER ONE,Apartment,1.0,856.0,False,720000.0,Nakheel Metro Station
+2026-09-23,Meydan One,AZIZI RIVIERA 61,Apartment,0.0,363.0,False,846560.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Remraam,Remraam - Al Ramth,Apartment,2.0,1243.0,False,930000.0,
+2026-09-23,Jumeirah Village Circle,Binghatti Apex,Apartment,0.0,412.0,False,879999.0,Dubai Internet City
+2026-09-23,Dubai Land Residence Complex,BLUE WAVE,Apartment,0.0,550.0,False,532000.0,
+2026-09-23,Dubai South,MAG 5 BOULEVARD,Apartment,1.0,666.0,False,690000.0,
+2026-09-23,Dubai Marina,,Apartment,1.0,1064.0,False,1500000.0,Jumeirah Beach Residency
+2026-09-23,Jumeirah Village Circle,Binghatti Apex,Apartment,1.0,909.0,False,1150000.0,Dubai Internet City
+2026-09-23,Al Furjan,Westwood By Imtiaz,Apartment,0.0,423.0,False,790000.0,Ibn Battuta Metro Station
+2026-09-23,Liwan,,Apartment,2.0,1318.0,False,1599000.0,
+2026-09-23,Burj Khalifa,29 BOULEVARD,Apartment,1.0,802.0,False,2000000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Al Satwa,Hyde Walk Residence by Imtiaz ,Apartment,1.0,999.0,False,1890455.0,Emirates Towers Metro Station
+2026-09-23,Business Bay,Regalia,Apartment,1.0,729.0,False,1250000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Dubai Sports City,Golf Vista Heights,Apartment,1.0,780.0,False,900000.0,Nakheel Metro Station
+2026-09-23,Dubai Marina,PARK ISLANDS,Apartment,1.0,796.0,False,1925000.0,Jumeirah Beach Resdency
+2026-09-23,Dubai Creek Harbour,Creek Beach - Savanna-Cedar-Mangrove,Apartment,2.0,990.0,False,2200000.0,Creek Metro Station
+2026-09-23,Dubai Healthcare City - Phase 2,AL WALEED GARDEN 2,Apartment,0.0,465.0,False,690000.0,Al Jadaf Metro Station
+2026-09-23,Burj Khalifa,EXQUISITE LIVING RESIDENCES,Apartment,2.0,1676.0,False,3800000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Dubai Marina,MARINA WHARF II,Apartment,1.0,1682.0,False,1450000.0,Jumeirah Beach Residency
+2026-09-23,Dubai Land Residence Complex,THE V TOWER,Apartment,0.0,410.0,False,510000.0,
+2026-09-23,Dubai Hills,Maple III,Villa,4.0,2910.0,False,5565000.0,First Abu Dhabi Bank Metro Station
+2026-09-23,Dubai Marina,,Apartment,2.0,1179.0,False,1715000.0,Jumeirah Lakes Towers
+2026-09-23,Jumeirah Village Circle,SEASONS COMMUNITY- SUMMER,Apartment,1.0,835.0,False,630000.0,Nakheel Metro Station
+2026-09-23,Jumeirah Village Circle,Binghatti Corner,Apartment,1.0,694.0,False,930000.0,Dubai Internet City
+2026-09-23,Serena,Serena Casa Dora,Villa,2.0,1857.0,False,2425000.0,
+2026-09-23,Business Bay,PRIVE BY DAMAC,Apartment,0.0,449.0,False,1000000.0,Business Bay Metro Station
+2026-09-23,Palm Jumeirah,TIARA RESIDENCE,Apartment,1.0,1296.0,False,4500000.0,Knowledge Village
+2026-09-23,Al Satwa,,Apartment,1.0,855.0,False,1460000.0,Emirates Towers Metro Station
+2026-09-23,Dubai Sports City,Canal Residence West 2,Apartment,0.0,645.0,False,550000.0,Nakheel Metro Station
+2026-09-23,Dubai Production City,LAGO VISTA,Apartment,2.0,1256.0,False,900000.0,Damac Properties
+2026-09-23,Mira,REEM - MIRA OASIS COMMUNITY,Villa,3.0,2896.0,False,3050000.0,
+2026-09-23,Arjan,SKYZ By Danube,Apartment,2.0,1015.0,False,1310000.0,Sharaf Dg Metro Station
+2026-09-23,Dubai Marina,,Apartment,2.0,1370.0,False,1900000.0,Jumeirah Beach Residency
+2026-09-23,Business Bay,EXECUTIVE BAY B,Apartment,2.0,1047.0,False,1305000.0,Business Bay Metro Station
+2026-09-23,International City Ph 1,,Apartment,1.0,885.0,False,650000.0,Rashidiya Metro Station
+2026-09-23,Jumeirah Lakes Towers,INDIGO TOWER,Apartment,0.0,625.0,False,900000.0,Jumeirah Lakes Towers
+2026-09-23,Jumeirah Village Circle,Luma Park Views,Apartment,1.0,849.0,False,1090647.0,Nakheel Metro Station
+2026-09-23,International City Ph 1,,Apartment,0.0,484.0,False,350000.0,Rashidiya Metro Station
+2026-09-23,Burj Khalifa,THE DISTINCTION,Apartment,1.0,767.0,False,1317611.48,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Al Yufrah 1,The Valley - Elora,Villa,3.0,1484.0,False,2775000.0,
+2026-09-23,Jumeirah Village Circle,Laya Residences,Apartment,1.0,983.0,False,830000.0,Dubai Internet City
+2026-09-23,Jumeirah Village Circle,BELGRAVIA III,Apartment,2.0,1459.0,False,1880000.0,Nakheel Metro Station
+2026-09-23,Business Bay,AG TOWER,Apartment,0.0,472.0,False,755552.0,Business Bay Metro Station
+2026-09-23,Arjan,Vincitore Benessere,Apartment,3.0,1470.0,False,2000000.0,Sharaf Dg Metro Station
+2026-09-23,The Greens,,Apartment,1.0,754.0,False,1280000.0,Dubai Internet City
+2026-09-23,Dubai Healthcare City - Phase 2,Farhad Azizi Residence,Apartment,0.0,540.0,False,695000.0,Healthcare City Metro Station
+2026-09-23,Liwan,,Apartment,1.0,830.0,False,814000.0,
+2026-09-23,Zaabeel Second,Downtown Views II,Apartment,2.0,1129.0,False,3110000.0,Financial Centre
+2026-09-23,Meydan One,Azizi Riviera 47,Apartment,1.0,429.0,False,820000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,0.0,500.0,True,896999.0,
+2026-09-23,Jumeirah Village Circle,LE GRAND CHATEAU,Apartment,2.0,1425.0,False,1280000.0,Dubai Internet City
+2026-09-23,Jumeirah Village Circle,SEASONS COMMUNITY- SUMMER,Villa,4.0,1457.0,False,2800000.0,Nakheel Metro Station
+2026-09-23,Dubai Sports City,Canal Residence West 2,Apartment,1.0,661.0,False,680000.0,Nakheel Metro Station
+2026-09-23,Business Bay,DAMAC TOWERS BY PARAMOUNT,Apartment,3.0,1744.0,False,2300000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,International City Ph 2 & 3,,Apartment,1.0,745.0,False,882825.0,Rashidiya Metro Station
+2026-09-23,Palm Jumeirah,ROYAL AMWAJ,Apartment,0.0,527.0,False,1250000.0,Al Sufouh
+2026-09-23,Jumeirah Village Circle,Hadley Heights,Apartment,0.0,455.0,False,693000.0,Dubai Internet City
+2026-09-23,The Greens,,Apartment,1.0,816.0,False,1194928.0,Dubai Internet City
+2026-09-23,International City Ph 1,,Apartment,2.0,674.0,False,566000.0,Rashidiya Metro Station
+2026-09-23,Al Yufrah 1,The Valley - Elora,Villa,4.0,2488.0,False,3500000.0,
+2026-09-23,The Greens,,Apartment,2.0,2027.0,False,3000000.0,Dubai Internet City
+2026-09-23,Jumeirah Beach Residence,,Apartment,2.0,1405.0,False,1900000.0,Jumeirah Beach Residency
+2026-09-23,Remraam,REMRAAM,Apartment,3.0,1479.0,False,1670000.0,
+2026-09-23,Dubai Marina,THE ZEN,Apartment,3.0,1764.0,False,1700000.0,Jumeirah Beach Residency
+2026-09-23,Dubai Marina,TORCH TOWER,Apartment,2.0,1258.0,False,1700000.0,Marina Towers
+2026-09-23,Dubai Production City,MIDTOWN - AFNAN,Apartment,1.0,637.0,False,805000.0,Harbour Tower
+2026-09-23,Business Bay,Binghatti Aquarise,Apartment,1.0,811.0,True,2000000.0,Business Bay Metro Station
+2026-09-23,Dmcc-Ez2,Sobha Central Phase II,Apartment,3.0,1668.0,True,5086668.0,Harbour Tower
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,0.0,414.0,True,786931.2,Dubai Internet City
+2026-09-23,Business Bay,Bayz 102 By Danube ,Apartment,1.0,752.0,True,2570000.0,
+2026-09-23,International City Ph 2 & 3,Sunlight Homes,Apartment,3.0,1171.0,True,1300000.0,Rashidiya Metro Station
+2026-09-23,Dubai Land Residence Complex,Havencia,Apartment,0.0,407.0,True,674509.0,
+2026-09-23,Dubai Land Residence Complex,Roof Comfort,Apartment,0.0,454.0,True,600000.0,
+2026-09-23,Sama Al Jadaf,Azizi David,Apartment,2.0,1300.0,True,2019700.0,Creek Metro Station
+2026-09-23,Living Legends,LIVING LEGENDS PHASE 5,Apartment,0.0,424.0,True,614530.24,
+2026-09-23,Madinat Al Mataar,Terra Woods,Apartment,1.0,742.0,True,1614888.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 7,Apartment,1.0,683.0,True,1078560.0,
+2026-09-23,Jumeirah Village Circle,AURESTA TOWER,Apartment,0.0,333.0,True,473700.0,Dubai Internet City
+2026-09-23,Wadi Al Safa 5,ATHLON BY AL DAR 1,Villa,3.0,1808.0,True,2900000.0,
+2026-09-23,Jumeirah Village Circle,HELVETIA RESIDENCES,Apartment,1.0,658.0,True,1305000.0,Nakheel Metro Station
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,0.0,383.0,True,700000.0,
+2026-09-23,Al Khairan First,Valia,Apartment,1.0,821.0,True,2323888.0,
+2026-09-23,Dubai South,MARQUIS HORIZON,Apartment,1.0,783.0,True,1325016.0,
+2026-09-23,Madinat Al Mataar,Golf Hills 2,Apartment,1.0,338.0,True,538444.0,
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,712.0,True,1179000.01,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,655.0,True,1169000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,642.0,True,1219000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,984.0,True,1333164.71,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,717.0,True,1239000.0,UAE Exchange Metro Station
+2026-09-23,Jabal Ali First,Boulevard Park 1,Apartment,2.0,1285.0,True,2143000.0,
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,712.0,True,1072000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,712.0,True,1170788.24,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,885.0,True,1139000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,933.0,True,1409000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,642.0,True,1159000.01,UAE Exchange Metro Station
+2026-09-23,Dubai Investment Park Second,DAMAC RIVERSIDE - SAGE,Villa,5.0,2716.0,True,3929000.0,
+2026-09-23,Al Jadaf,Binghatti Starlight,Apartment,0.0,437.0,True,825000.0,
+2026-09-23,Dubai Design District,DESIGN QUARTER,Apartment,3.0,2951.0,True,5350000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Dubai South,MARQUIS HORIZON,Apartment,2.0,1000.0,True,1699600.0,
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,2.0,1676.0,True,2746000.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,1.0,680.0,True,1208177.28,
+2026-09-23,Dubai Industrial City,Al Haseen Residence 4,Apartment,0.0,381.0,True,584955.0,
+2026-09-23,Dubai South,South Living,Apartment,2.0,1472.0,True,1949000.0,
+2026-09-23,Jumeirah Village Circle,Azurline Residences by MAAS Developers ,Apartment,1.0,611.0,True,842310.0,Dubai Internet City
+2026-09-23,Business Bay,Downtown Residences,Apartment,1.0,903.0,True,2666756.0,
+2026-09-23,Nad Al Shiba First,Nad Al Sheba Gardens Phase 3 ,Villa,3.0,3585.0,True,8250000.0,
+2026-09-23,Dubai Land Residence Complex,Samana Parkville,Apartment,1.0,765.0,True,1102435.29,
+2026-09-23,Madinat Al Mataar,Hayat 2,Villa,4.0,3638.0,True,4400000.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,395.0,True,719154.8,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,449.0,True,743740.45,
+2026-09-23,Dubai Industrial City,Samana Hills South 3,Apartment,1.0,747.0,True,1033061.67,
+2026-09-23,City Of Arabia,Laguna Residence,Apartment,1.0,809.0,True,1225000.0,
+2026-09-23,Down Town Jabal Ali,RAW DISTRICT BY IMTIAZ CR,Apartment,0.0,390.0,True,690258.36,UAE Exchange Metro Station
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,0.0,408.0,True,689356.8,Dubai Internet City
+2026-09-23,Jumeirah Village Circle,HELVETIA RESIDENCES,Apartment,2.0,1297.0,True,1865000.0,Nakheel Metro Station
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT BY IMTIAZ R,Apartment,0.0,406.0,True,752047.86,
+2026-09-23,Madinat Al Mataar,Golf Vale,Apartment,2.0,990.0,True,1562888.0,
+2026-09-23,Business Bay,Urban Life,Apartment,1.0,764.0,True,1797143.59,Business Bay Metro Station
+2026-09-23,Jumeirah Village Circle,Lume Residences,Apartment,1.0,595.0,True,1039088.15,Nakheel Metro Station
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 3,Apartment,1.0,707.0,True,1086000.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 3,Apartment,1.0,702.0,True,1078000.0,
+2026-09-23,Jumeirah Village Circle,HELVETIA RESIDENCES,Apartment,3.0,1772.0,True,2125000.0,Nakheel Metro Station
+2026-09-23,Jumeirah Village Triangle,Binghatti Luxuria,Apartment,0.0,338.0,True,783999.0,Damac Properties
+2026-09-23,Dubai Science Park,Binghatti Hillside,Apartment,0.0,361.0,True,781999.0,First Abu Dhabi Bank Metro Station
+2026-09-23,Majan,Binghatti Skyflame 2,Apartment,1.0,842.0,True,1050000.0,
+2026-09-23,Sama Al Jadaf,Binghatti Wraith,Apartment,0.0,396.0,True,700000.0,Al Jadaf Metro Station
+2026-09-23,Majan,Binghatti Skyflame 1,Apartment,0.0,407.0,True,580000.0,
+2026-09-23,Jumeirah Village Circle,ONE PARK CENTRAL BY IMAN,Apartment,2.0,1862.0,True,2196582.0,Nakheel Metro Station
+2026-09-23,Jabal Ali First,South Garden B,Apartment,2.0,1236.0,True,1832000.0,ENERGY Metro Station
+2026-09-23,Al Khairan First,Valia,Apartment,1.0,829.0,True,2125888.0,
+2026-09-23,Dubai Marina,Marina Cove,Apartment,4.0,2418.0,True,7200000.0,Marina Mall Metro Station
+2026-09-23,Al Furjan,SPARKLZ by Danube ,Apartment,3.0,1124.0,True,2010000.0,Ibn Battuta Metro Station
+2026-09-23,Dubai Sports City,ASPIRZ By Danube,Apartment,1.0,749.0,True,1465000.0,Nakheel Metro Station
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 2,Apartment,2.0,1223.0,True,2691466.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,2.0,1223.0,True,2591782.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,1.0,703.0,True,1645000.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,3.0,1637.0,True,3373034.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,3.0,1471.0,True,2793135.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,3.0,1579.0,True,2904683.0,
+2026-09-23,Dubai Land Residence Complex,Peace Lagoons II by Peace Homes,Apartment,0.0,410.0,True,688713.0,
+2026-09-23,Palm Deira,Agua Residences by Citi Developers - Tower 1,Apartment,1.0,713.0,True,1710385.0,
+2026-09-23,Down Town Jabal Ali,PEACE AVENUE BY PEACE HOMES,Apartment,1.0,702.0,True,1012000.0,UAE Exchange Metro Station
+2026-09-23,Down Town Jabal Ali,PEACE AVENUE BY PEACE HOMES,Apartment,0.0,441.0,True,485000.0,UAE Exchange Metro Station
+2026-09-23,Dubai Land Residence Complex,Peace Lagoons by Peace Homes,Apartment,2.0,1246.0,True,1431061.0,
+2026-09-23,Dubai Land Residence Complex,Peace Lagoons by Peace Homes,Apartment,1.0,778.0,True,971666.0,
+2026-09-23,Dubai Land Residence Complex,Peace Lagoons by Peace Homes,Apartment,1.0,801.0,True,1104486.0,
+2026-09-23,Silicon Oasis,Timez By Danube,Apartment,1.0,548.0,True,1187000.0,
+2026-09-23,Al Wasl,Verve City Walk,Apartment,1.0,850.0,True,2662000.0,
+2026-09-23,Al Rowaiyah First,Greenz By Danube,Villa,3.0,1292.0,True,3430440.0,
+2026-09-23,Dubai Land Residence Complex,Samana Park Meadows,Apartment,1.0,833.0,True,907653.34,
+2026-09-23,Al Rowaiyah First,Greenz By Danube,Villa,3.0,1292.0,True,3292960.0,
+2026-09-23,Jumeirah Village Circle,Serenz by Danube,Apartment,0.0,431.0,True,1014000.0,Nakheel Metro Station
+2026-09-23,Jumeirah Village Circle,Serenz by Danube,Apartment,2.0,993.0,True,2000000.0,Nakheel Metro Station
+2026-09-23,Jumeirah Village Circle,Serenz by Danube,Apartment,0.0,421.0,True,1002000.0,Nakheel Metro Station
+2026-09-23,Jumeirah Village Circle,Serenz by Danube,Apartment,0.0,381.0,True,920000.0,Nakheel Metro Station
+2026-09-23,Al Furjan,Primero Residences by Main Realty,Apartment,3.0,2320.0,True,2100000.0,Ibn Battuta Metro Station
+2026-09-23,Al Rowaiyah First,Greenz By Danube,Villa,5.0,2325.0,True,6000000.0,
+2026-09-23,Al Rowaiyah First,Greenz By Danube,Villa,5.0,2327.0,True,7745000.0,
+2026-09-23,Arjan,The central downtown ,Apartment,0.0,488.0,True,547500.0,Sharaf Dg Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 3,Apartment,2.0,1145.0,True,1600000.0,
+2026-09-23,Arjan,The central downtown ,Apartment,2.0,1233.0,True,1674888.0,Sharaf Dg Metro Station
+2026-09-23,Palm Deira,THE MERIVA COLLECTION,Apartment,2.0,1285.0,True,4251828.0,
+2026-09-23,Silicon Oasis,TRIA BY DEYAAR,Apartment,1.0,771.0,True,1020000.0,
+2026-09-23,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,856.0,True,1246000.0,
+2026-09-23,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,863.0,True,1249000.0,
+2026-09-23,Wadi Al Safa 4,California Residences,Apartment,2.0,1349.0,True,1719975.0,
+2026-09-23,Wadi Al Safa 4,California Residences,Apartment,2.0,1158.0,True,1447500.0,
+2026-09-23,Palm Deira,THE MERIVA COLLECTION,Apartment,1.0,834.0,True,2844828.0,
+2026-09-23,Dubai Maritime City,Breez by Danube,Apartment,0.0,414.0,True,1700000.0,Al Ghubaiba Metro Station
+2026-09-23,Silicon Oasis,Timez By Danube,Apartment,1.0,545.0,True,1177000.0,
+2026-09-23,Arjan,The central downtown ,Apartment,1.0,714.0,True,1141888.0,Sharaf Dg Metro Station
+2026-09-23,Silicon Oasis,Oasiz 2 by Danube,Apartment,1.0,558.0,True,1096000.0,
+2026-09-23,Burj Khalifa,City Center Residences,Apartment,3.0,1451.0,True,5600000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Arjan,Samana Imperial Garden,Apartment,2.0,1239.0,True,1483709.94,Sharaf Dg Metro Station
+2026-09-23,Arjan,The central downtown ,Apartment,1.0,853.0,True,1135888.0,Sharaf Dg Metro Station
+2026-09-23,Dubai Land Residence Complex,Sky Line By Peace Homes,Apartment,0.0,463.0,True,499000.0,
+2026-09-23,Dubai Land Residence Complex,Sky Line By Peace Homes,Apartment,0.0,457.0,True,692985.6,
+2026-09-23,Wadi Al Safa 4,DISTRIKT,Apartment,2.0,1450.0,True,2888000.0,
+2026-09-23,Dubai Land Residence Complex,Sky Line By Peace Homes,Apartment,0.0,462.0,True,690000.0,
+2026-09-23,Arjan,The central downtown ,Apartment,2.0,1118.0,True,1379888.0,Sharaf Dg Metro Station
+2026-09-23,Arjan,The central downtown ,Apartment,0.0,470.0,True,762888.0,Sharaf Dg Metro Station
+2026-09-23,Arjan,The central downtown ,Apartment,0.0,475.0,True,732888.0,Sharaf Dg Metro Station
+2026-09-23,Warsan First,Crystal Tower,Apartment,2.0,1030.0,True,1111935.6,Rashidiya Metro Station
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,1.0,559.0,True,944000.0,
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,1.0,637.0,True,924000.01,
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,1.0,648.0,True,974000.01,
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,1.0,650.0,True,954000.01,
+2026-09-23,Arjan,Bond Enclave,Apartment,1.0,764.0,True,1188777.0,Sharaf Dg Metro Station
+2026-09-23,Dubai Maritime City,Oceanz 2 By Danube ,Apartment,1.0,746.0,True,2000000.0,
+2026-09-23,Arjan,The central downtown ,Apartment,3.0,2201.0,True,2425163.0,Sharaf Dg Metro Station
+2026-09-23,Dubai South,Nanma Lotus,Apartment,0.0,416.0,True,582166.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 11,Apartment,1.0,733.0,True,1222650.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,397.0,True,692063.86,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,398.0,True,731418.4,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 11,Apartment,1.0,732.0,True,1150000.0,
+2026-09-23,Madinat Al Mataar,azizi venice 13 ,Apartment,0.0,406.0,True,630000.0,
+2026-09-23,Arjan,GARDENS 2,Apartment,0.0,431.0,True,765000.0,Sharaf Dg Metro Station
+2026-09-23,Jumeirah Village Circle,Legado By Prescott,Apartment,2.0,1496.0,True,1724800.0,Nakheel Metro Station
+2026-09-23,Madinat Al Mataar,The Collective,Apartment,2.0,1073.0,True,1495000.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,404.0,True,741080.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,395.0,True,731416.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,1.0,707.0,True,1272168.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,2.0,1120.0,True,1902173.24,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,397.0,True,790805.29,
+2026-09-23,Jumeirah Village Circle,Azurline Residences by MAAS Developers ,Apartment,0.0,339.0,True,571830.0,Dubai Internet City
+2026-09-23,Wadi Al Safa 3,Rome by SD,Apartment,2.0,1209.0,True,1600000.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 14,Apartment,0.0,364.0,True,590000.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,396.0,True,762897.09,
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,1.0,767.0,True,1129024.0,Dubai Internet City
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,655.0,True,1189000.0,UAE Exchange Metro Station
+2026-09-23,City Of Arabia,Azizi Milan 30,Apartment,0.0,342.0,True,588000.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 10,Apartment,0.0,342.0,True,595000.0,
+2026-09-23,International City Ph 2 & 3,MOONSA Residences,Apartment,1.0,840.0,True,1198330.0,Rashidiya Metro Station
+2026-09-23,Dubai Land Residence Complex,VERDANIA 1,Apartment,2.0,1348.0,True,1591470.0,
+2026-09-23,Dubai Industrial City,Al Haseen Residence 4,Apartment,0.0,379.0,True,606400.0,
+2026-09-23,Arjan,Marquis One,Apartment,0.0,457.0,True,782900.0,Sharaf Dg Metro Station
+2026-09-23,Jumeirah Village Triangle,TREPPAN TOWER,Apartment,1.0,621.0,True,1050000.0,Harbour Tower
+2026-09-23,Dubai Studio City,BEACH OASIS 2,Apartment,0.0,347.0,True,570000.0,Dubai Internet City
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 10,Apartment,0.0,345.0,True,713440.0,
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,1.0,621.0,True,921317.65,
+2026-09-23,Dubai Land Residence Complex,Samana Parkville,Apartment,2.0,1463.0,True,1854317.65,
+2026-09-23,Arjan,Samana Imperial Garden,Apartment,2.0,1239.0,True,1903141.18,Sharaf Dg Metro Station
+2026-09-23,Arjan,Samana Imperial Garden,Apartment,0.0,441.0,True,799000.0,Sharaf Dg Metro Station
+2026-09-23,Al Khairan First,Valia,Apartment,2.0,1257.0,True,3316841.0,
+2026-09-23,Arjan,Marquis One,Apartment,0.0,439.0,True,788352.0,Sharaf Dg Metro Station
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,397.0,True,695996.04,
+2026-09-23,Jumeirah Village Circle,Azurline Residences by MAAS Developers ,Apartment,0.0,350.0,True,607110.0,Dubai Internet City
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,1.0,827.0,True,1270272.0,Dubai Internet City
+2026-09-23,Dubai Land Residence Complex,Terra Tower,Apartment,0.0,292.0,True,422820.0,
+2026-09-23,Jumeirah Village Circle,Samha Residence 2,Apartment,0.0,425.0,True,680000.0,Dubai Internet City
+2026-09-23,Arjan,Ashley Hills,Apartment,0.0,485.0,True,719000.36,Sharaf Dg Metro Station
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,2.0,1120.0,True,1749142.6,
+2026-09-23,Meydan One,Azizi Riviera Reve,Apartment,2.0,1215.0,True,3431400.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,758.0,True,1144880.0,
+2026-09-23,Dubai South,Astra Residences,Apartment,0.0,414.0,True,591677.0,
+2026-09-23,Al Yelayiss 1,DAMAC ISLANDS 2 - MAUI,Villa,5.0,1550.0,True,3559000.0,
+2026-09-23,Dubai Industrial City,Samana South Haven,Apartment,0.0,356.0,True,599000.01,
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,710.0,True,1159000.01,UAE Exchange Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,0.0,406.0,True,750780.0,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,938.0,True,1398400.0,
+2026-09-23,Meydan One,Azizi Riviera Reve,Apartment,1.0,1135.0,True,2828000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-23,Palm Jumeirah,Palm Beach Towers -3,Apartment,2.0,3337.0,True,11224000.0,Palm Jumeirah
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,1.0,628.0,True,1073141.18,UAE Exchange Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,2.0,1174.0,True,1736640.0,
+2026-09-23,Madinat Al Mataar,Terra Woods,Apartment,1.0,760.0,True,1654888.0,
+2026-09-23,Dubai South,Nanma Lotus,Apartment,0.0,315.0,True,440615.0,
+2026-09-23,Dubai Studio City,RYAH LIVING by ALYAKKA,Apartment,2.0,1156.0,True,1528120.0,Sharaf Dg Metro Station
+2026-09-23,Jumeirah Village Triangle,VOXA RESIDENCES,Apartment,1.0,672.0,True,1169900.0,Nakheel Metro Station
+2026-09-23,International City Ph 2 & 3,Zenith Residences,Apartment,1.0,836.0,True,937717.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,2.0,1120.0,True,1898873.24,
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,0.0,405.0,True,693036.0,Dubai Internet City
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,2.0,1180.0,True,1805000.0,
+2026-09-23,Down Town Jabal Ali,Portside by Samana Developers,Apartment,2.0,981.0,True,1388211.77,UAE Exchange Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,0.0,379.0,True,703640.0,
+2026-09-23,Dubai South,Astra Residences,Apartment,0.0,371.0,True,500850.0,
+2026-09-23,Arjan,Ashley Hills,Apartment,0.0,485.0,True,692010.0,Sharaf Dg Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,0.0,406.0,True,794000.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 10,Apartment,1.0,700.0,True,999000.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 10,Apartment,1.0,700.0,True,999000.0,
+2026-09-23,Dubai Land Residence Complex,Terra Tower,Apartment,0.0,351.0,True,595991.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,395.0,True,723106.2,
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - LAGOON VIEWS 13,Apartment,1.0,802.0,True,1263360.0,
+2026-09-23,Dubai Land Residence Complex,Terra Tower,Apartment,1.0,720.0,True,1043250.0,
+2026-09-23,Madinat Al Mataar,AZIZI VENICE 14,Apartment,1.0,725.0,True,1194120.0,
+2026-09-23,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,751.0,True,1050000.0,
+2026-09-23,Dubai Land Residence Complex,Havencia,Apartment,1.0,767.0,True,1087488.0,
+2026-09-23,Business Bay,Urban Life,Apartment,2.0,1575.0,True,2971286.77,Business Bay Metro Station
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,454.0,True,742523.93,
+2026-09-23,City Of Arabia,Azizi Milan 28,Apartment,0.0,349.0,True,587000.0,
+2026-09-23,Al Yufrah 1,The Valley - Rivana,Villa,5.0,5357.0,True,5050000.0,
+2026-09-23,Jumeirah Village Circle,OXFORD COVE,Apartment,1.0,827.0,True,1217344.0,Dubai Internet City
+2026-09-23,Jabal Ali First,Boulevard Park 2,Apartment,1.0,840.0,True,1572000.0,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,398.0,True,764503.36,
+2026-09-23,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,3.0,1507.0,True,1981510.67,
+2026-09-23,Business Bay,DG1 Living ,Apartment,1.0,1026.0,True,3022937.0,Business Bay Metro Station
+2026-09-23,Al Hebiah Fifth,DAMAC LAGOONS - VALENCIA,Apartment,1.0,808.0,True,1322000.0,
+2026-09-24,Dubai Sports City,Golf Vista Heights,Apartment,2.0,1338.0,False,1450000.0,Nakheel Metro Station
+2026-09-24,Al Kifaf,1 Residences ,Apartment,1.0,898.0,False,1800000.0,Al Jafiliya Metro Station
+2026-09-24,Jumeirah Lakes Towers,,Apartment,1.0,991.0,False,1420000.0,Damac Properties
+2026-09-24,Dubai Harbour,Beach Mansion,Apartment,2.0,1239.0,False,3600000.0,
+2026-09-24,Liwan,QPOINT LIWAN - PLOT R002,Apartment,1.0,646.0,False,480000.0,
+2026-09-24,Dubai Land Residence Complex,BLUE WAVE,Apartment,0.0,440.0,False,485000.0,
+2026-09-24,Dubai Sports City,HUB CANAL 2 TOWER,Apartment,1.0,1045.0,False,750000.0,Nakheel Metro Station
+2026-09-24,Dubai Creek Harbour,Creek Beach - Bayshore,Apartment,1.0,673.0,False,1400000.0,Creek Metro Station
+2026-09-24,Dubai Marina,,Apartment,1.0,755.0,False,2550000.0,Dubai Marina
+2026-09-24,Jumeirah Lakes Towers,GOLD CREST EXECUTIVE,Apartment,1.0,770.0,False,1020000.0,Jumeirah Lakes Towers
+2026-09-24,Discovery Gardens,,Apartment,2.0,1547.0,False,1350000.0,Harbour Tower
+2026-09-24,Dubai Marina,MARINA PINNACLE,Apartment,3.0,1699.0,False,1560000.0,Mina Seyahi
+2026-09-24,Jumeirah Village Circle,Living Garden II,Apartment,0.0,360.0,False,515000.0,Nakheel Metro Station
+2026-09-24,Down Town Jabal Ali,SUBERBIA,Apartment,1.0,703.0,False,540000.0,UAE Exchange Metro Station
+2026-09-24,Mina Rashid,Seagate,Apartment,2.0,1216.0,False,2600000.0,Al Ghubaiba Metro Station
+2026-09-24,Town Square,TOWN SQUARE ZAHRA,Apartment,3.0,1413.0,False,1700000.0,
+2026-09-24,Dubai Hills,Golf Residences by Fortimo,Apartment,2.0,1523.0,False,3150000.0,First Abu Dhabi Bank Metro Station
+2026-09-24,Burj Khalifa,BURJ KHALIFA TOWERS,Apartment,2.0,2008.0,False,6000000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Discovery Gardens,,Apartment,1.0,837.0,False,740000.0,Harbour Tower
+2026-09-24,Jumeirah First,PORT DE LA MER - LE SOLEIL ,Apartment,2.0,1302.0,False,5200000.0,
+2026-09-24,Jumeirah Village Circle,AB CAVALIER ,Apartment,2.0,1544.0,False,2000000.0,Dubai Internet City
+2026-09-24,Discovery Gardens,,Apartment,0.0,449.0,False,500000.0,Harbour Tower
+2026-09-24,Arjan,Jewelz Residence,Apartment,0.0,406.0,False,600000.0,Sharaf Dg Metro Station
+2026-09-24,Tecom Site A,THE S TOWER,Apartment,4.0,4815.0,False,14200000.0,Dubai Internet City
+2026-09-24,Discovery Gardens,,Apartment,2.0,1405.0,False,1100000.0,Harbour Tower
+2026-09-24,Sustainable City,THE SUSTAINABLE CITY,Villa,3.0,2097.0,False,4500000.0,
+2026-09-24,Sobha Heartland,Sobha Hartland - The Crest,Apartment,2.0,808.0,False,1680000.0,
+2026-09-24,Business Bay,AYKON CITY 2,Apartment,2.0,799.0,False,1320000.0,Business Bay Metro Station
+2026-09-24,Majan,THE HAVEN,Apartment,0.0,483.0,False,796000.0,
+2026-09-24,Business Bay,Peninsula Four,Apartment,0.0,500.0,False,1150000.0,Business Bay Metro Station
+2026-09-24,The Lakes,Golf Heights,Apartment,1.0,756.0,False,1800000.0,Nakheel Metro Station
+2026-09-24,Wadi Al Safa 7,Rukan Residence,Apartment,3.0,1406.0,False,1500000.0,
+2026-09-24,Sobha Heartland,Sobha Hartland - Crest Grande,Apartment,2.0,1281.0,False,2470000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Business Bay,Peninsula Four,Apartment,1.0,829.0,False,2249000.0,Business Bay Metro Station
+2026-09-24,Warsan First,Olivz Residence,Apartment,1.0,645.0,False,725000.0,Rashidiya Metro Station
+2026-09-24,Dubai Production City,JANNAT,Apartment,2.0,1204.0,False,1750000.0,Harbour Tower
+2026-09-24,Arjan,Welcome Residency,Apartment,2.0,1345.0,False,1515000.0,Sharaf Dg Metro Station
+2026-09-24,Business Bay,Peninsula Four,Apartment,0.0,515.0,False,1200000.0,Business Bay Metro Station
+2026-09-24,Silicon Oasis,ARABIAN GATE,Apartment,0.0,461.0,False,520000.0,
+2026-09-24,Dubai Sports City,EAGLE HEIGHTS,Apartment,1.0,810.0,False,830000.0,Nakheel Metro Station
+2026-09-24,Meydan One,Azizi Riviera 41,Apartment,0.0,313.0,False,553575.05,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Palm Jumeirah,VICEROY HOTEL RESORTS RESIDENCES,Apartment,2.0,1646.0,False,3402000.0,Palm Jumeirah
+2026-09-24,Burj Khalifa,THE DUBAI MALL,Apartment,0.0,604.0,False,2000000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Al Furjan,Maria Tower,Apartment,1.0,675.0,False,750000.0,Ibn Battuta Metro Station
+2026-09-24,Dubai Land Residence Complex,INDIGO TOWER,Apartment,1.0,709.0,False,500000.0,
+2026-09-24,Motor City,,Villa,4.0,10982.0,False,9100000.0,Dubai Internet City
+2026-09-24,Jumeirah Village Circle,Marwa Heights,Apartment,1.0,721.0,False,890000.0,Dubai Internet City
+2026-09-24,Tecom Site A,,Apartment,1.0,1135.0,False,2400000.0,Palm Jumeirah
+2026-09-24,Discovery Gardens,,Apartment,2.0,1583.0,False,1150000.0,Harbour Tower
+2026-09-24,Jumeirah Village Circle,Binghatti Phoenix,Apartment,1.0,766.0,False,1240000.0,Nakheel Metro Station
+2026-09-24,Dubai Sports City,RED RESIDENCE,Apartment,0.0,408.0,False,415000.0,Dubai Internet City
+2026-09-24,City Walk,Celadon ,Apartment,2.0,1053.0,False,2950000.0,
+2026-09-24,The Greens,,Apartment,1.0,758.0,False,1550000.0,Dubai Internet City
+2026-09-24,Jumeirah Village Circle,Oxford 212,Apartment,0.0,415.0,False,750000.0,Dubai Internet City
+2026-09-24,Discovery Gardens,,Apartment,2.0,1354.0,False,1125000.0,Harbour Tower
+2026-09-24,Town Square,NOOR TOWNHOUSES,Villa,3.0,2024.0,False,2800000.0,
+2026-09-24,Um Suqaim Third,Lamaa,Apartment,1.0,736.0,False,2000000.0,
+2026-09-24,Dubai Marina,,Apartment,1.0,925.0,False,3149548.0,Dubai Marina
+2026-09-24,Jumeirah Village Circle,PARK VILLA'S 3,Apartment,1.0,1044.0,False,1051895.0,Dubai Internet City
+2026-09-24,Jumeirah Village Circle,PARK VILLA'S 3,Apartment,1.0,1142.0,False,1241128.0,Dubai Internet City
+2026-09-24,Al Furjan,,Villa,4.0,2225.0,False,4050000.0,Ibn Battuta Metro Station
+2026-09-24,Dubai Marina,,Apartment,1.0,823.0,False,1100000.0,Jumeirah Beach Residency
+2026-09-24,Dubai Marina,,Apartment,3.0,2382.0,False,8334548.0,Dubai Marina
+2026-09-24,Al Furjan,,Apartment,3.0,1764.0,False,2265000.0,
+2026-09-24,Dubai Marina,WEST AVENUE,Apartment,1.0,721.0,False,1600000.0,Jumeirah Lakes Towers
+2026-09-24,Wadi Al Safa 7,Rukan 3,Villa,3.0,1139.0,False,1900000.0,
+2026-09-24,Dubai Marina,,Apartment,1.0,839.0,False,1221164.27,Mina Seyahi
+2026-09-24,Dubai South,CELESTIA,Apartment,0.0,444.0,False,520000.0,
+2026-09-24,Business Bay,NOBLES,Apartment,1.0,830.0,False,1650000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Dubai Land Residence Complex,SKY COURTS,Apartment,2.0,1261.0,False,900000.0,
+2026-09-24,Business Bay,AG TOWER,Apartment,1.0,1191.0,False,1400000.0,Business Bay Metro Station
+2026-09-24,Majan,,Apartment,1.0,791.0,False,1264800.0,
+2026-09-24,Majan,,Apartment,1.0,795.0,False,1271856.0,
+2026-09-24,Majan,,Apartment,1.0,791.0,False,1264800.0,
+2026-09-24,Jumeirah Village Circle,LA RIVIERA AZURE,Apartment,2.0,1376.0,False,1230000.0,Dubai Internet City
+2026-09-24,Wadi Al Safa 7,Rukan 3,Villa,1.0,569.0,False,935000.0,
+2026-09-24,Dubai Sports City,ELITE 6 SPORTS RESIDENCE,Apartment,0.0,428.0,False,450000.0,Nakheel Metro Station
+2026-09-24,Dubai Marina,ROYAL OCEANIC TOWER,Apartment,1.0,764.0,False,1210000.0,Jumeirah Beach Resdency
+2026-09-24,Discovery Gardens,,Apartment,2.0,1336.0,False,1150000.0,Harbour Tower
+2026-09-24,Dubai Marina,BAY CENTRAL WEST & CENTRAL TOWERS,Apartment,1.0,651.0,False,1611000.0,Jumeirah Beach Resdency
+2026-09-24,The Greens,TANARO,Apartment,2.0,1578.0,False,2450000.0,Nakheel Metro Station
+2026-09-24,Jabal Ali First,The Nook,Apartment,2.0,782.0,False,879000.0,ENERGY Metro Station
+2026-09-24,Emirate Living,Emirates Living - Springs 12,Villa,2.0,1823.0,False,3315000.0,Damac Properties
+2026-09-24,Dubai Hills,ELLINGTON HOUSE II,Apartment,3.0,1741.0,False,6250000.0,First Abu Dhabi Bank Metro Station
+2026-09-24,Dubai Marina,,Apartment,1.0,1027.0,False,3419548.0,Dubai Marina
+2026-09-24,International City Ph 1,,Apartment,2.0,1042.0,False,770000.0,Rashidiya Metro Station
+2026-09-24,Al Yufrah 1,The Valley - Elora,Villa,4.0,2486.0,False,3350000.0,
+2026-09-24,Dubai Marina,ESCAN MARINA TOWER,Apartment,2.0,1134.0,False,1300000.0,Jumeirah Beach Residency
+2026-09-24,Dubai Hills,Lime Gardens ,Apartment,2.0,960.0,False,2550000.0,First Abu Dhabi Bank Metro Station
+2026-09-24,Dubai Studio City,Azizi Mirage 1,Apartment,0.0,356.0,False,536410.0,Dubai Internet City
+2026-09-24,Remraam,REMRAAM,Apartment,3.0,1497.0,False,1573296.0,
+2026-09-24,Business Bay,Peninsula Two,Apartment,1.0,630.0,False,1695000.0,Business Bay Metro Station
+2026-09-24,Mira,REEM-MIRA COMMUNITY PH5,Villa,4.0,3350.0,False,4350000.0,
+2026-09-24,Business Bay,Peninsula Four,Apartment,2.0,365.0,False,934000.0,Business Bay Metro Station
+2026-09-24,International City Ph 1,,Apartment,0.0,474.0,False,320000.0,Rashidiya Metro Station
+2026-09-24,Jumeirah Village Circle,RA1N Residence,Apartment,2.0,1173.0,False,1650000.0,Dubai Internet City
+2026-09-24,International City Ph 1,PRIME RESIDENCY2,Apartment,2.0,969.0,False,660000.0,Rashidiya Metro Station
+2026-09-24,Dubai Healthcare City - Phase 2,AL WALEED GARDEN 2,Apartment,0.0,390.0,False,680000.0,Al Jadaf Metro Station
+2026-09-24,Jumeirah Village Circle,,Apartment,2.0,1268.0,False,1810000.0,Nakheel Metro Station
+2026-09-24,Jumeirah Village Circle,Binghatti Aurora,Apartment,1.0,784.0,False,1150000.0,Dubai Internet City
+2026-09-24,Palm Jumeirah,Seven Hotel and Apartments The Palm,Apartment,1.0,715.0,False,2100000.0,Palm Jumeirah
+2026-09-24,Damac Hills,DAMAC HILLS - CARSON ,Apartment,0.0,407.0,False,510000.0,
+2026-09-24,Palm Jumeirah,MARINA RESIDENCE,Apartment,2.0,1858.0,False,4200000.0,Palm Jumeirah
+2026-09-24,Dubai Sports City,ELITE 7 SPORTS RESIDENCE,Apartment,1.0,694.0,False,600000.0,Nakheel Metro Station
+2026-09-24,Dubai Sports City,CRICKET TOWER,Apartment,1.0,768.0,False,650000.0,Nakheel Metro Station
+2026-09-24,Meydan One,Azizi Riviera 39,Apartment,0.0,293.0,False,499000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Town Square,TOWN SQUARE JENNA AND WARDA,Apartment,4.0,2340.0,False,2900000.0,
+2026-09-24,City Walk,"NO.20, NO.21A, NO.21B AND NO.22 CITYWALK RESIDENTIAL",Apartment,1.0,1191.0,False,2725000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Dubai Land Residence Complex,BLUE WAVE,Apartment,0.0,407.0,False,460000.0,
+2026-09-24,Jumeirah Village Circle,PARK VIEW TOWER,Apartment,0.0,474.0,False,600000.0,Nakheel Metro Station
+2026-09-24,Dubai Marina,,Apartment,2.0,1226.0,False,3919548.0,Dubai Marina
+2026-09-24,Al Furjan,PG ONE AT AL FURJAN,Apartment,1.0,770.0,False,1140000.0,Ibn Battuta Metro Station
+2026-09-24,Jumeirah Village Circle,Skyhills II by HRE ,Apartment,1.0,837.0,True,1219349.0,Nakheel Metro Station
+2026-09-24,Dubai Land Residence Complex,Peace Lagoons II by Peace Homes,Apartment,1.0,816.0,True,1000000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,0.0,533.0,True,453050.0,
+2026-09-24,Dubai Industrial City,Coventry Centro,Apartment,0.0,392.0,True,502680.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,699.0,True,1142000.0,
+2026-09-24,Damac Hills,DAMAC DISTRICT,Apartment,1.0,704.0,True,1165010.0,
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,539.0,True,704718.04,
+2026-09-24,Hadaeq Sheikh Mohammed Bin Rashid,Vida Residences Club Point,Apartment,1.0,747.0,True,1713888.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,1.0,1049.0,True,891650.0,
+2026-09-24,Majan,Binghatti Titania,Apartment,0.0,373.0,True,675000.0,
+2026-09-24,Jumeirah Lakes Towers,Viewz 2 By Danube,Apartment,1.0,806.0,True,2016000.0,Jumeirah Lakes Towers
+2026-09-24,Damac Hills,DAMAC DISTRICT,Apartment,0.0,445.0,True,827000.0,
+2026-09-24,Damac Hills,DAMAC DISTRICT,Apartment,0.0,446.0,True,803160.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,732.0,True,1471000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,1.0,1049.0,True,891650.0,
+2026-09-24,Jumeirah Lakes Towers,UH WEST BY ELLINGTON,Apartment,1.0,879.0,True,1603828.0,Jumeirah Lakes Towers
+2026-09-24,Damac Hills,DAMAC DISTRICT,Apartment,1.0,859.0,True,1365120.0,
+2026-09-24,Jabal Ali First,OMYA RESIDENCES,Apartment,0.0,363.0,True,624900.0,ENERGY Metro Station
+2026-09-24,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,783.0,True,1100000.0,
+2026-09-24,Emaar South,Golf Point,Apartment,1.0,679.0,True,925000.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,2.0,1093.0,True,2324000.0,
+2026-09-24,Al Hebiah First,Binghatti Skyterraces,Apartment,1.0,858.0,True,1436999.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,2.0,1096.0,True,2435000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,2.0,1674.0,True,1541050.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,732.0,True,1366000.0,
+2026-09-24,Madinat Al Mataar,Azizi Venice 15,Apartment,1.0,650.0,True,994000.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,850.0,True,1242000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,1.0,933.0,True,793050.0,
+2026-09-24,City Of Arabia,Arancia Yards 2 By Beyond,Apartment,1.0,745.0,True,1294000.0,
+2026-09-24,Jumeirah Village Circle,105 Residences by Kamdar,Apartment,0.0,468.0,True,745000.0,Nakheel Metro Station
+2026-09-24,Jumeirah Village Circle,368 Park Ln,Apartment,2.0,1364.0,True,1665000.0,Dubai Internet City
+2026-09-24,Sama Al Jadaf,Binghatti Wraith,Apartment,2.0,1185.0,True,2068429.0,Al Jadaf Metro Station
+2026-09-24,Jumeirah Lakes Towers,Viewz 1 By Danube ,Apartment,1.0,737.0,True,1530000.0,Jumeirah Lakes Towers
+2026-09-24,Madinat Al Mataar,Hayat 2,Villa,4.0,3638.0,True,4400000.0,
+2026-09-24,Down Town Jabal Ali,PEACE AVENUE BY PEACE HOMES,Apartment,0.0,440.0,True,495000.0,UAE Exchange Metro Station
+2026-09-24,Al Wasl,DAMAC CITY 2,Apartment,2.0,1091.0,True,3372300.0,
+2026-09-24,Jumeirah Village Triangle,VOXA RESIDENCES,Apartment,0.0,325.0,True,679900.0,Nakheel Metro Station
+2026-09-24,Palm Jabal Ali,Palm Central Private Residences - Frond N,Apartment,1.0,807.0,True,2672000.0,
+2026-09-24,Al Wasl,DAMAC CITY 2,Apartment,1.0,769.0,True,2540160.0,
+2026-09-24,Jumeirah Village Circle,The Weave,Apartment,2.0,1228.0,True,2168200.0,Dubai Internet City
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,397.0,True,724871.75,
+2026-09-24,Jabal Ali First,South Garden E,Apartment,2.0,1236.0,True,1850000.0,ENERGY Metro Station
+2026-09-24,Zaabeel Second,THE EDIT at d3,Apartment,2.0,1267.0,True,4179000.0,
+2026-09-24,Burj Khalifa,"The St. Regis Residences, Downtown Dubai",Apartment,2.0,1348.0,True,4000000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Ras Al Khor Industrial First,SOBHA ONE,Apartment,2.0,1138.0,True,2355577.0,
+2026-09-24,Jabal Ali First,South Garden E,Apartment,2.0,1175.0,True,1574000.0,ENERGY Metro Station
+2026-09-24,Al Wasl,Fern,Apartment,2.0,1265.0,True,4000000.0,
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,445.0,True,689529.02,
+2026-09-24,Dubai Hills,Park Lane,Apartment,2.0,1121.0,True,2232888.0,First Abu Dhabi Bank Metro Station
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,0.0,395.0,True,723106.2,
+2026-09-24,Burj Khalifa,City Center Residences,Apartment,2.0,1184.0,True,2393505.6,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,0.0,533.0,True,453050.0,
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,1.0,786.0,True,1199847.0,
+2026-09-24,Majan,Binghatti Skyflame 2,Apartment,0.0,407.0,True,560000.0,
+2026-09-24,Dubai Industrial City,Coventry Curve,Apartment,0.0,407.0,True,360000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,0.0,533.0,True,453050.0,
+2026-09-24,Damac Hills,DAMAC DISTRICT,Apartment,1.0,649.0,True,1167550.0,
+2026-09-24,Falcon City Of Wonders,Sakura Gardens by HRE ,Apartment,1.0,924.0,True,1320832.5,
+2026-09-24,Madinat Al Mataar,AZIZI VENICE 14,Apartment,0.0,367.0,True,599000.0,
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,1.0,933.0,True,793050.0,
+2026-09-24,Dubai Science Park,Binghatti Hillside,Apartment,0.0,394.0,True,829999.0,First Abu Dhabi Bank Metro Station
+2026-09-24,Jumeirah Village Circle,Binghatti Etherea,Apartment,1.0,655.0,True,1316999.0,Dubai Internet City
+2026-09-24,Al Satwa,EVERGRIN HOUSE 2,Apartment,1.0,701.0,True,1516536.0,Emirates Towers Metro Station
+2026-09-24,Jabal Ali First,Trussardi Residences 2,Apartment,0.0,533.0,True,453050.0,
+2026-09-24,Madinat Hind 4,DAMAC HILLS (2) - ELO 2 & ELO 3,Apartment,2.0,971.0,True,1260650.0,
+2026-09-24,Sama Al Jadaf,Binghatti Wraith,Apartment,0.0,378.0,True,849999.0,Al Jadaf Metro Station
+2026-09-24,Wadi Al Safa 7,Reportage Village 1 ,Villa,2.0,947.0,True,1080000.0,
+2026-09-24,Madinat Al Mataar,AZIZI VENICE 8,Apartment,0.0,376.0,True,568420.0,
+2026-09-24,Wadi Al Safa 4,Serra,Apartment,3.0,2252.0,True,3500000.0,
+2026-09-24,Palm Jumeirah,Palm Beach Towers -3,Apartment,1.0,1168.0,True,4268800.0,Palm Jumeirah
+2026-09-24,Wadi Al Safa 3,High Best Tower,Apartment,2.0,1263.0,True,2500000.0,
+2026-09-24,Majan,Binghatti Titania,Apartment,1.0,668.0,True,1075000.0,
+2026-09-24,Jabal Ali First,South Garden B,Apartment,2.0,1297.0,True,1984000.0,ENERGY Metro Station
+2026-09-24,Madinat Al Mataar,Hayat 6,Villa,5.0,4521.0,True,6150000.0,
+2026-09-24,Dubai Design District,DESIGN QUARTER,Apartment,2.0,1258.0,True,2700000.0,Buj Khalifa Dubai Mall Metro Station
+2026-09-24,Madinat Al Mataar,Azizi Venice 6,Apartment,0.0,406.0,True,730000.0,
+2026-09-24,Al Merkadh,Sobha Creek Vistas Heights,Apartment,3.0,1882.0,True,3629267.0,
+2026-09-24,Jabal Ali First,Serene Gardens 2 by Prescott,Apartment,0.0,492.0,True,700000.0,
+2026-09-24,Arjan,Ashley Hills,Apartment,0.0,486.0,True,748723.6,Sharaf Dg Metro Station
+2026-09-24,Jabal Ali First,South Garden D,Apartment,2.0,1153.0,True,1635000.0,ENERGY Metro Station
+2026-09-24,Dubai Maritime City,Oceanz 2 By Danube ,Apartment,1.0,746.0,True,2070300.0,
+2026-09-24,Jabal Ali First,Boulevard Park 1,Apartment,3.0,1721.0,True,3131000.0,
+2026-09-24,Saih Shuaib 1,LUNAYA,Villa,4.0,5519.0,True,11750000.0,
+2026-09-24,Madinat Al Mataar,Hayat 2,Villa,5.0,4838.0,True,5750000.0,
+2026-09-24,Madinat Al Mataar,Hayat 6,Villa,4.0,3247.0,True,4850000.0,
+2026-09-24,Jabal Ali First,Boulevard Park 2,Apartment,2.0,1338.0,True,2337000.0,
+2026-09-24,Jumeirah Lakes Towers,Verde by Sobha,Apartment,3.0,1787.0,True,3841169.0,Marina Mall Metro Station
+2026-09-24,Madinat Al Mataar,Hayat 2,Villa,5.0,3139.0,True,4475000.0,
+2026-09-24,Dubai South,South Living,Apartment,2.0,1472.0,True,1908000.0,
+2026-09-24,Dubai South,South Living,Apartment,2.0,1472.0,True,1964600.0,
+2026-09-24,Madinat Al Mataar,Expo City Sky Residences,Apartment,2.0,1501.0,True,2838000.0,
+2026-09-24,Jumeirah Village Circle,TUSCAN RESIDENCES1 - SIENA,Apartment,2.0,2334.0,False,1800000.0,Dubai Internet City
+2026-09-24,Silicon Oasis,AXIS  RESIDENCES 1,Apartment,1.0,860.0,False,565000.0,
+2026-09-24,Horizon,CLAYDON HOUSE BY ELLINGTON ,Apartment,2.0,1236.0,True,3219828.0,Creek Metro Station
+2026-09-24,Arjan,Ashley Hills,Apartment,0.0,486.0,True,684993.4,Sharaf Dg Metro Station
+2026-09-24,Wadi Al Safa 5,Verdes by Haven 1,Apartment,1.0,812.0,True,1149859.0,
+2026-09-24,Jumeirah Lakes Towers,ME DO RE 2,Apartment,3.0,2010.0,True,4626000.0,Marina Mall Metro Station
+2026-09-24,Business Bay,FAIR VIEW RESIDENCY,Apartment,1.0,796.0,False,1120000.0,Business Bay Metro Station
+2026-09-24,Madinat Al Mataar,WINDSOR HOUSE ,Apartment,2.0,1254.0,True,2048828.0,
+2026-09-24,Zaabeel First,Address Residences Zabeel,Apartment,3.0,1818.0,True,6249888.0,Al Jafiliya Metro Station
+2026-09-24,Dubai Studio City,Arisha Terraces ,Apartment,2.0,1105.0,True,1742700.0,Dubai Internet City
+2026-09-24,Sama Al Jadaf,Binghatti Wraith,Apartment,1.0,814.0,True,1296000.0,Al Jadaf Metro Station
+2026-09-24,Sama Al Jadaf,Binghatti Cullinan,Apartment,1.0,763.0,True,1421999.0,Al Jadaf Metro Station
+2026-09-24,Al Thanyah Fifth,ELTIERA VIEWS ,Apartment,1.0,797.0,True,2212828.0,
+2026-09-24,Dubai Marina,MARINA SHORES,Apartment,3.0,1852.0,True,4656888.0,Dubai Marina
+2026-09-24,Dubai Land Residence Complex,Celesto Tower 2,Apartment,1.0,553.0,True,751671.0,
+2026-09-24,Majan,Vincitore Wellness Estate,Apartment,2.0,1387.0,True,2156000.0,
+2026-09-24,Sama Al Jadaf,Binghatti Wraith,Apartment,0.0,396.0,True,775000.0,Al Jadaf Metro Station
+2026-09-24,Business Bay,One by Binghatti ,Apartment,1.0,1194.0,True,2325000.0,Business Bay Metro Station
+2026-09-24,International City Ph 2 & 3,Stellar Axis by Ajmal Estate Developers,Apartment,1.0,767.0,True,852379.0,
+2026-09-24,Majan,Symphony by Chaimaa,Apartment,1.0,729.0,True,1187200.0,
+2026-09-24,Al Hebiah First,Binghatti Skyterraces,Apartment,2.0,2016.0,True,1800000.0,
+2026-09-24,Al Thanyah Fifth,ELTIERA VIEWS ,Apartment,2.0,1221.0,True,3193828.0,
+2026-09-24,Jumeirah Village Circle,ONE PARK SQUARE BY IMAN,Apartment,1.0,728.0,True,1067000.0,Dubai Internet City
+2026-09-24,Al Thanyah Fifth,ELTIERA VIEWS ,Apartment,2.0,1404.0,True,3616828.0,
+2026-09-24,Jabal Ali Industrial Second,RAW DISTRICT 2 BY IMTIAZ,Apartment,1.0,767.0,True,1264197.0,
+2026-09-24,Al Yelayiss 1,DAMAC ISLANDS 2 - ANTIGUA 1,Villa,5.0,2747.0,True,5342000.0,
+2026-09-24,Dubai Science Park,Binghatti Hills ,Apartment,1.0,828.0,True,1220469.9,First Abu Dhabi Bank Metro Station
+2026-09-24,Al Yelayiss 1,DAMAC ISLANDS 2 - BAHAMAS 2,Villa,5.0,1552.0,True,3518400.0,
+2026-09-24,Dubai Investment Park Second, DAMAC RIVERSIDE VIEWS - MARINE 4,Apartment,1.0,798.0,True,1203000.0,
+2026-09-24,Sufouh Gardens,113 RESIDENCES,Apartment,1.0,913.0,True,2081628.6,Dubai Internet City
+2026-09-24,Dubai Investment Park Second,DAMAC RIVERSIDE VIEWS - ROYAL 2,Apartment,2.0,1482.0,True,2060000.0,
+2026-09-24,Al Furjan,,Villa,4.0,2485.0,False,4100000.0,Ibn Battuta Metro Station
+2026-09-24,Dubai Industrial City,Elanora by zoya,Apartment,0.0,379.0,True,569050.0,
+2026-09-24,International City Ph 2 & 3,Chapter 01 By Newbury Developments,Apartment,1.0,749.0,True,862000.0,
+2026-09-24,Jabal Ali First,South Garden E,Apartment,2.0,1299.0,True,1911000.0,ENERGY Metro Station
+2026-09-24,Dubai Sports City,BERMUDA VIEWS,Apartment,1.0,799.0,False,730000.0,Nakheel Metro Station
+2026-09-24,Sama Al Jadaf,Binghatti Wraith,Apartment,1.0,814.0,True,1320000.0,Al Jadaf Metro Station
+2026-09-24,Silicon Oasis,,Apartment,1.0,853.0,False,630000.0,
