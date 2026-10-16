@@ -1,11 +1,20 @@
 """
-Machine-learning price model + "value finder".
+STEP 4 - Machine-learning price model + "value finder".
 
-1. Train a Gradient Boosting model to predict a property's price from
-   its area, type, size, bedrooms, year and off-plan status.
-2. Measure accuracy on data the model has never seen (test set).
-3. Flag the latest-year deals priced well BELOW the model's estimate:
-   possible undervalued opportunities.
+What this script does, in plain words:
+    1. TRAIN: show the model ~13,000 real sales from 2023-2025. For each sale it sees
+       the area, apartment or villa, size, bedrooms, off-plan or ready, and the month.
+       It learns how these things relate to the price.
+    2. TEST: ask it to price ~3,200 sales from 2026 that it has NEVER seen,
+       and compare its guesses with the real prices. Testing on a later year
+       ("out-of-time") is a fair test, because in real life you predict the future.
+    3. VALUE FINDER: list 2026 sales whose real price was 20-50% BELOW the model's
+       estimate. These are leads worth a closer look, not recommendations.
+
+The model is a Gradient Boosting Regressor: it builds hundreds of small decision
+trees, each one fixing the mistakes of the ones before it.
+
+Data: data/processed/sales_sample.csv (a random 3% of all residential sales since 2023).
 
 Run:  python src/model.py
 """
@@ -19,64 +28,99 @@ import numpy as np
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.metrics import mean_absolute_percentage_error, r2_score
-from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
-from analysis import IMAGES, ROOT, load_data
+# ---------------------------------------------------------------- settings
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data" / "processed" / "sales_sample.csv"
+IMAGES = ROOT / "images"
 
-CATEGORICAL = ["area", "property_type"]
-NUMERIC = ["size_sqft", "bedrooms", "year", "off_plan"]
+TEST_YEAR = 2026        # train on years before this, test on this year
+MIN_PPSF = 300          # sales below AED 300/sqft are not normal market sales -> removed
+DISCOUNT_FROM = 0.20    # value finder: at least 20% below the model's estimate ...
+DISCOUNT_TO = 0.50      # ... but not more than 50% (bigger gaps are almost always
+                        #     non-market deals, e.g. selling a share of a home)
+
+TEXT_COLUMNS = ["area", "property_type"]                        # words -> one-hot encoded
+NUMBER_COLUMNS = ["size_sqft", "bedrooms", "off_plan", "months"]
 
 
-def build_model() -> Pipeline:
-    prep = ColumnTransformer([
-        ("cat", OneHotEncoder(handle_unknown="ignore"), CATEGORICAL),
-        ("num", "passthrough", NUMERIC),
+# ---------------------------------------------------------------- data
+def load():
+    df = pd.read_csv(DATA, parse_dates=["date"])
+    df = df[df["price_aed"] / df["size_sqft"] >= MIN_PPSF].copy()
+    # months since Jan 2023 (1, 2, 3 ...) so the model can learn the market trend
+    df["months"] = (df["date"].dt.year - 2023) * 12 + df["date"].dt.month
+    # a few sales have no bedroom info: use -1 so the model knows it is missing
+    df["bedrooms"] = df["bedrooms"].fillna(-1)
+    return df
+
+
+# ---------------------------------------------------------------- model
+def build_model():
+    """Step 1 turns text into numbers (one column per area). Step 2 is the model."""
+    prepare = ColumnTransformer([
+        # areas with fewer than 20 sales are grouped together as "infrequent"
+        ("text", OneHotEncoder(handle_unknown="infrequent_if_exist", min_frequency=20),
+         TEXT_COLUMNS),
+        ("numbers", "passthrough", NUMBER_COLUMNS),
     ])
-    gbr = GradientBoostingRegressor(n_estimators=300, max_depth=4, learning_rate=0.05, random_state=42)
-    return Pipeline([("prep", prep), ("model", gbr)])
+    model = GradientBoostingRegressor(n_estimators=400, max_depth=5, learning_rate=0.05,
+                                      random_state=42)
+    return Pipeline([("prepare", prepare), ("model", model)])
 
 
-def main() -> None:
-    df = load_data()
-    df["off_plan"] = df["off_plan"].astype(int)
-    X = df[CATEGORICAL + NUMERIC]
-    y = np.log(df["price_aed"])  # log price: errors become percentage-like
-
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    model = build_model().fit(X_train, y_train)
-
-    pred = np.exp(model.predict(X_test))
-    actual = np.exp(y_test)
-    print(f"R² (test set):   {r2_score(actual, pred):.3f}")
-    print(f"Mean abs % error: {mean_absolute_percentage_error(actual, pred) * 100:.1f}%")
-
-    # Predicted vs actual chart
+# ---------------------------------------------------------------- chart
+def chart_predicted_vs_actual(test):
     fig, ax = plt.subplots(figsize=(6, 6))
-    ax.scatter(actual / 1e6, pred / 1e6, s=6, alpha=0.4)
-    lim = [0, np.percentile(actual / 1e6, 99)]
-    ax.plot(lim, lim, color="red", linestyle="--")
-    ax.set_xlim(lim)
-    ax.set_ylim(lim)
+    ax.scatter(test["price_aed"] / 1e6, test["model_price"] / 1e6, s=4, alpha=0.3)
+    top = np.percentile(test["price_aed"] / 1e6, 98)
+    ax.plot([0, top], [0, top], color="red", linestyle="--", label="perfect prediction")
+    ax.set_xlim(0, top)
+    ax.set_ylim(0, top)
     ax.set_xlabel("Actual price (AED millions)")
-    ax.set_ylabel("Predicted price (AED millions)")
-    ax.set_title("Model: predicted vs actual (test set)")
+    ax.set_ylabel("Model's predicted price (AED millions)")
+    ax.set_title(f"Price model on {len(test):,} unseen {TEST_YEAR} sales")
+    ax.legend()
     fig.tight_layout()
     fig.savefig(IMAGES / "predicted_vs_actual.png", dpi=120)
     plt.close(fig)
 
-    # Value finder: latest year, priced >15% below model estimate
-    latest = df[df["year"] == df["year"].max()].copy()
-    latest["model_price"] = np.exp(model.predict(latest[CATEGORICAL + NUMERIC])).round(-3)
-    latest["discount"] = 1 - latest["price_aed"] / latest["model_price"]
-    deals = latest[latest["discount"] > 0.15].sort_values("discount", ascending=False)
-    cols = ["transaction_date", "area", "property_type", "bedrooms", "size_sqft",
+
+# ---------------------------------------------------------------- main
+def main():
+    IMAGES.mkdir(exist_ok=True)
+    df = load()
+    train = df[df["date"].dt.year < TEST_YEAR]
+    test = df[df["date"].dt.year == TEST_YEAR].copy()
+    columns = TEXT_COLUMNS + NUMBER_COLUMNS
+
+    # We predict log(price) instead of price, so a 10% mistake on a cheap flat counts
+    # the same as a 10% mistake on an expensive villa. np.exp() turns it back into AED.
+    model = build_model().fit(train[columns], np.log(train["price_aed"]))
+    test["model_price"] = np.exp(model.predict(test[columns])).round(-3)
+
+    error = (test["model_price"] - test["price_aed"]).abs() / test["price_aed"]
+    r2 = r2_score(np.log(test["price_aed"]), np.log(test["model_price"]))
+    print(f"Trained on {len(train):,} sales (2023-{TEST_YEAR - 1}), "
+          f"tested on {len(test):,} unseen {TEST_YEAR} sales")
+    print(f"R² (log price):            {r2:.2f}   (1.00 would be perfect)")
+    print(f"Median error:              {error.median():.1%}")
+    print(f"Predictions within ±20%:   {(error <= 0.20).mean():.0%}")
+    chart_predicted_vs_actual(test)
+
+    # value finder
+    test["discount"] = (1 - test["price_aed"] / test["model_price"]).round(3)
+    deals = test[test["discount"].between(DISCOUNT_FROM, DISCOUNT_TO)]
+    deals = deals.sort_values("discount", ascending=False)
+    show = ["date", "area", "property_type", "bedrooms", "size_sqft", "off_plan",
             "price_aed", "model_price", "discount"]
-    deals[cols].to_csv(ROOT / "data" / "possible_undervalued_deals.csv", index=False)
-    print(f"\n{len(deals)} deals priced >15% below model estimate. Top 5:")
-    print(deals[cols].head().to_string(index=False))
+    deals[show].to_csv(ROOT / "data" / "processed" / "possible_undervalued_deals.csv", index=False)
+    print(f"\nValue finder: {len(deals)} of {len(test):,} sales ({len(deals) / len(test):.0%}) "
+          f"were {DISCOUNT_FROM:.0%}-{DISCOUNT_TO:.0%} below the model's estimate. Top 5:")
+    print(deals[show].head().to_string(index=False))
 
 
 if __name__ == "__main__":

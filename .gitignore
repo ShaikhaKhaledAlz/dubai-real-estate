@@ -3,3 +3,8 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 .DS_Store
+
+# Full DLD downloads are too big for GitHub (keep only the small samples)
+data/raw/transactions_2*
+data/raw/rent_contracts_2*
+data/test_output/
