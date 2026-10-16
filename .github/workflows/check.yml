@@ -1,0 +1,18 @@
+# Runs every script and the dashboard on GitHub's computers after each change,
+# so you can see at a glance (green tick) that the project works.
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  run-project:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: pytest -v
