@@ -1,16 +1,16 @@
-area,deals,off_plan_share,apt_median_ppsf,apt_median_price
-Al Barsha South Fourth,17909,0.6856887598414205,1466.0,1000000.0
-Business Bay,11911,0.7227772647132903,2493.0,1650000.0
-Wadi Al Safa 5,11097,0.8302243849689105,1366.0,800000.0
-Madinat Al Mataar,9635,0.8527244421380384,1652.0,1261000.0
-Jabal Ali First,7050,0.7052482269503546,1370.0,1368000.0
-Marsa Dubai,7002,0.4730077120822622,2680.0,2500000.0
-Al Hebiah First,5848,0.8095075239398085,1915.0,1177000.0
-Dubai Investment Park Second,5730,0.9664921465968587,1465.0,1170000.0
-Wadi Al Safa 3,5702,0.8286566117151877,1459.0,940000.0
-Me'aisem First,5589,0.7527285739846127,1330.0,750000.0
-Madinat Dubai Almelaheyah,5462,0.9857195166605639,2984.0,2495000.0
-Al Barshaa South Second,5427,0.9565137276580062,1661.0,1082000.0
-Al Barsha South Fifth,5136,0.8502725856697819,1560.0,1033000.0
-Hadaeq Sheikh Mohammed Bin Rashid,4597,0.6613008483793779,2428.0,2050000.0
-Bukadra,4453,1.0,2440.0,2067000.0
+area,common_name,sales,off_plan_share,apt_median_ppsf,apt_median_price
+Al Barsha South Fourth,Jumeirah Village Circle (JVC),17909,0.686,1466.0,1000000.0
+Business Bay,Business Bay,11911,0.723,2493.0,1650000.0
+Wadi Al Safa 5,Dubailand Residence Complex & Arabian Ranches 3,11097,0.83,1366.0,800000.0
+Madinat Al Mataar,Dubai South,9635,0.853,1652.0,1261000.0
+Jabal Ali First,Al Furjan & Discovery Gardens,7050,0.705,1370.0,1368000.0
+Marsa Dubai,"Dubai Marina, JBR & Dubai Harbour",7002,0.473,2680.0,2500000.0
+Al Hebiah First,Motor City,5848,0.81,1915.0,1177000.0
+Dubai Investment Park Second,Dubai Investment Park Second,5730,0.966,1465.0,1170000.0
+Wadi Al Safa 3,Majan,5702,0.829,1459.0,940000.0
+Me'aisem First,Dubai Production City (IMPZ),5589,0.753,1330.0,750000.0
+Madinat Dubai Almelaheyah,Dubai Maritime City & Mina Rashid,5462,0.986,2984.0,2495000.0
+Al Barshaa South Second,Dubai Science Park,5427,0.957,1661.0,1082000.0
+Al Barsha South Fifth,Jumeirah Village Triangle (JVT),5136,0.85,1560.0,1033000.0
+Hadaeq Sheikh Mohammed Bin Rashid,Dubai Hills Estate,4597,0.661,2428.0,2050000.0
+Bukadra,Bukadra,4453,1.0,2440.0,2067000.0
